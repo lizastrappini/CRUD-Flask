@@ -1,0 +1,8 @@
+#ignorar carpeta Lib
+Lib
+#ignorar carpeta Scripts
+Scripts
+#ignorar carpeta Include
+Include
+#ignorar carpeta pycache
+_pycache_
