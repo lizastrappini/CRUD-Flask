@@ -4,5 +4,5 @@ Lib/
 Scripts/
 #ignorar carpeta Include
 Include/
-#ignorar carpeta pycache
+#ignorar carpeta _pycache_
 _pycache_/
